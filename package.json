@@ -8,7 +8,7 @@
       "react-scripts": "5.0.1",
       "@remix-run/dev": "^v2.15.3",
       "@remix-run/react": "^v2.15.3",
-      "@remix-run/serve": "^v2.15.3",
+      "@remix-run/serve": "^v2.15.3"
     },
     "scripts": {
       "start": "react-scripts start",
