@@ -9,7 +9,7 @@
       "@remix-run/dev": "^v2.15.3",
       "@remix-run/react": "^v2.15.3",
       "@remix-run/serve": "^v2.15.3",
-      "@remix-run/vercel": "^v2.15.3"
+      "@remix-run/vercel": "^v1.19.3"
     },
     "scripts": {
       "start": "react-scripts start",
